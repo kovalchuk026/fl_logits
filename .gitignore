@@ -1,1 +1,4 @@
 myenv
+.ipynb_checkpoint
+mnist/.ipynb_checkpoints/
+
